@@ -1,0 +1,10 @@
+.todos {
+  font-size: 30px;
+  margin: 10px 0;
+}
+.delete{
+  color: red;
+}
+.hidden{
+  display: none;
+}
